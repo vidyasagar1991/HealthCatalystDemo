@@ -1,0 +1,100 @@
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\ApplicationInsights.config
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\csc.exe
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\vbc.exe
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\VBCSCompiler.exe
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\HealthCatalystDemo.dll.config
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\HealthCatalystDemo.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\HealthCatalystDemo.pdb
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\EntityFramework.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\EntityFramework.SqlServer.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.Web.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.ApplicationInsights.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Helpers.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Mvc.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Razor.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.Deployment.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.Razor.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\EntityFramework.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\EntityFramework.SqlServer.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.Web.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.ApplicationInsights.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Razor.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.Deployment.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.Razor.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Helpers.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Mvc.xml
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\obj\Debug\HealthCatalystDemo.dll
+c:\users\vidya\documents\visual studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\obj\Debug\HealthCatalystDemo.pdb
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\ApplicationInsights.config
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\csc.exe
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\vbc.exe
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\HealthCatalystDemo.dll.config
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\HealthCatalystDemo.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\HealthCatalystDemo.pdb
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\EntityFramework.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.Web.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Helpers.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Mvc.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Razor.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.Razor.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\EntityFramework.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.Web.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Razor.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Webpages.Razor.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Helpers.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\bin\System.Web.Mvc.xml
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\obj\Debug\HealthCatalystDemo.csprojResolveAssemblyReference.cache
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\obj\Debug\HealthCatalystDemo.dll
+C:\Users\vidya\Desktop\HealthCatalystDemo\HealthCatalystDemo\obj\Debug\HealthCatalystDemo.pdb
+C:\Users\vidya\Documents\Visual Studio 2015\Projects\HealthCatalystDemo\HealthCatalystDemo\obj\Debug\HealthCatalystDemo.csprojResolveAssemblyReference.cache
